@@ -1,1 +1,1 @@
-# drupal_ckeditor_plugin_via_composer
+# Experimental drupal_ckeditor_plugin_via_composer
