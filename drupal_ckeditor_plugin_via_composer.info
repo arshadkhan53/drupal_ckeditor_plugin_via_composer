@@ -1,0 +1,5 @@
+name: Drupal Ckeditor Plugin Via Composer 
+type: module
+description: 'Add ckeditor plugin via composer.'
+package: Ckeditor
+core_version_requirement: ^8 || ^9
