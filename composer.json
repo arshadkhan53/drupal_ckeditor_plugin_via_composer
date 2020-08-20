@@ -1,6 +1,6 @@
 {
 "name": "arshadkhan53/drupal_ckeditor_plugin_via_composer",
-"description": "Add ckeditor plugin via composer.",
+"description": "Add ckeditor plugin via composer, Add this to you main composer.json file.",
 "type": "drupal-module",
 "license": "GPL-2.0-or-later",
 "homepage": "https://github.com/arshadkhan53/drupal_ckeditor_plugin_via_composer",
